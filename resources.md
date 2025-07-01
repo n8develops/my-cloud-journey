@@ -1,21 +1,19 @@
 ## Day 1–2: Watch AWS Crash Courses
 
 ### 1. AWS EC2 Crash Course
-- [AWS EC2 Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=lZMkgOMYYIg) _(20 min, beginner-friendly)_
-- [AWS EC2 Explained (TechWorld with Nana)](https://www.youtube.com/watch?v=TlIn4VEP1i8) _(10 min, visual)_
+- [AWS EC2 Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=lZMkgOMYYIg) 
 
 ### 2. AWS S3 Crash Course
-- [AWS S3 Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=UBxy2UldF0U) _(30 min, in-depth)_
-- [AWS S3 Explained (Be A Better Dev)](https://www.youtube.com/watch?v=MzKjY6yPLdU) _(12 min, focused)_
+- [AWS S3 Simplified: Beginner's Tutorial with Step-by-Step Demo](https://www.youtube.com/watch?v=WNmkgz9yOp0) 
+
 
 ### 3. AWS IAM Crash Course
-- [AWS IAM Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=0gZWRpV3C6g) _(30 min, practical)_
-- [AWS IAM Explained (TechWorld with Nana)](https://www.youtube.com/watch?v=Qdvw9iA-EiI) _(13 min, clear visuals)_
+- [AWS IAM Roles and Policies Explained | Full Tutorial for Beginners](https://www.youtube.com/watch?v=xObZL_Dn02s&utm_source=chatgpt.com)
+
+
 
 ### 4. AWS CloudFormation Crash Course
-- [AWS CloudFormation Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=dF1Twhzm1tI) _(27 min)_
-- [AWS CloudFormation Explained (TechWorld with Nana)](https://www.youtube.com/watch?v=7xngnjfIlK4) _(10 min)_
-
+- [AWS CloudFormation Tutorial for Beginners (2024)](https://www.youtube.com/watch?v=2gT1dvbppg8) 
 ---
 
 ### **AWS EC2 Setup Notes**
