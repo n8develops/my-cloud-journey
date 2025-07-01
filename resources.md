@@ -1,17 +1,20 @@
- # 🌥️ Cloud Journey Journal
+## Day 1–2: Watch AWS Crash Courses
 
----
+### 1. AWS EC2 Crash Course
+- [AWS EC2 Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=lZMkgOMYYIg) _(20 min, beginner-friendly)_
+- [AWS EC2 Explained (TechWorld with Nana)](https://www.youtube.com/watch?v=TlIn4VEP1i8) _(10 min, visual)_
 
-## 📅 Week 1–2: Foundations & AWS Basics
+### 2. AWS S3 Crash Course
+- [AWS S3 Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=UBxy2UldF0U) _(30 min, in-depth)_
+- [AWS S3 Explained (Be A Better Dev)](https://www.youtube.com/watch?v=MzKjY6yPLdU) _(12 min, focused)_
 
-### **Resources Used**
-- [AWS EC2 Crash Course (YouTube)](https://www.youtube.com/watch?v=Uu3k3x_qb4U)
-- [AWS S3 Crash Course (YouTube)](https://www.youtube.com/watch?v=UB3DE5Bgfx4)
-- [AWS Cloud Practitioner Learning Path](https://aws.amazon.com/training/learning-paths/cloud-practitioner/)
-- [Official AWS Docs](https://docs.aws.amazon.com/)
-- [CloudFormation Basics (YouTube)](https://www.youtube.com/watch?v=1IaT7r9Q6EA)
-- [Flask Docs](https://flask.palletsprojects.com/)
-- [Docker Getting Started](https://docs.docker.com/get-started/)
+### 3. AWS IAM Crash Course
+- [AWS IAM Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=0gZWRpV3C6g) _(30 min, practical)_
+- [AWS IAM Explained (TechWorld with Nana)](https://www.youtube.com/watch?v=Qdvw9iA-EiI) _(13 min, clear visuals)_
+
+### 4. AWS CloudFormation Crash Course
+- [AWS CloudFormation Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=dF1Twhzm1tI) _(27 min)_
+- [AWS CloudFormation Explained (TechWorld with Nana)](https://www.youtube.com/watch?v=7xngnjfIlK4) _(10 min)_
 
 ---
 
