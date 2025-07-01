@@ -47,8 +47,8 @@ Each project here reflects a real milestone, with skills showcased in focused re
 
 ## 📝 About
 
-👋 I’m [Your Name], and this is my public journey from ground zero to cloud engineer.  
-- [LinkedIn](your-link) | [GitHub](your-link)
+👋 I’m Nathanael Pierre Louis, and this is my public journey from ground zero to cloud engineer.  
+- [LinkedIn](https://www.linkedin.com/in/nathanael-pierre-louis/) | [GitHub](your-link)
 
 ---
 
